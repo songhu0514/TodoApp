@@ -1,4 +1,0 @@
-TodoApp
-=======
-
-Android Codepath---- TodoApp
